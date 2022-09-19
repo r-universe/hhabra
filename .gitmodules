@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "metabCombiner"]
-	path = metabCombiner
-	url = https://github.com/hhabra/metabcombiner
-	shallow = true
-	registered = true
